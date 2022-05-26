@@ -10,19 +10,19 @@ To deploy this project you need to install nodeJS
 
 [Download nodeJS](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
-Run the following command to install all dependencies
-```bash
-  npm install
-```
 Go to table 
 ```bash
   cd table
 ```
-Finnaly run this command
+
+Run the following command to install all dependencies
+```bash
+  npm install
+```
+Finally, run this command
 ```bash
   npm start
 ```
-
 
 ## Screenshots
 
